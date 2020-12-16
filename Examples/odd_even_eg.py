@@ -23,7 +23,7 @@ def run():
         # # display functions
         # network.displayNN_forward(i)
         # network.displayNN_backward(i)
-        # network.displayNN_loss(i)
+        network.displayNN_loss(i)
 
         network.resetloss()  # resetting our loss after each iteration
 
