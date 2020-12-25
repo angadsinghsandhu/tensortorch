@@ -3,17 +3,17 @@ A python based open source Neural Network Framework, built from scratch
 
 
 Classification Link : 
-!(Classification GIF)[https://gfycat.com/energeticagilecoelacanth]
+![Classification GIF](https://gfycat.com/energeticagilecoelacanth)
 
 Regression Link : 
-!(Classification GIF)[https://gfycat.com/safefavoriteiberianemeraldlizard]
+![Regression GIF](https://gfycat.com/safefavoriteiberianemeraldlizard)
 
 
 ## <ins> Description </ins>
 An intuitive dynamic `Machine Learning Library` using Python
 
 **To Completely understand the library, please go to my
-3 PART series on medium.com**, Click !(HERE)[Coming Soon...]
+3 PART series on medium.com**, Click [HERE](Coming Soon...)
 
 ---
 
