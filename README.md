@@ -6,7 +6,7 @@ Classification Link :
 ![Classification GIF](https://thumbs.gfycat.com/EnergeticAgileCoelacanth-mobile.mp4)
 
 Regression Link : 
-![Regression GIF](https://thumbs.gfycat.com/SafeFavoriteIberianemeraldlizard-mobile.mp4)
+![Regression GIF](C:\Users\angad\Videos\Captures\tensortorch\regression.gif)
 
 
 ## <ins> Description </ins>
