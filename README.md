@@ -2,10 +2,10 @@
 A python based open source Neural Network Framework, built from scratch
 
 
-Classification Link : 
+Classification Link : <br>
 ![Classification GIF](https://user-images.githubusercontent.com/55819847/103136849-ea782a00-46e9-11eb-9668-d528a80a57d6.gif)
-
-Regression Link : 
+<br>
+Regression Link : <br>
 ![Regression GIF](https://user-images.githubusercontent.com/55819847/103136819-c288c680-46e9-11eb-84d7-314caea87ddd.gif)
 
 
