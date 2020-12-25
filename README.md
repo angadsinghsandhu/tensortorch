@@ -3,10 +3,11 @@ A python based open source Neural Network Framework, built from scratch
 
 
 Classification Link : 
-![Classification GIF](https://thumbs.gfycat.com/EnergeticAgileCoelacanth-mobile.mp4)
+![Classification GIF](https://user-images.githubusercontent.com/55819847/103136849-ea782a00-46e9-11eb-9668-d528a80a57d6.gif)
 
 Regression Link : 
-![Regression GIF](C:\Users\angad\Videos\Captures\tensortorch\regression.gif)
+![Regression GIF](https://user-images.githubusercontent.com/55819847/103136819-c288c680-46e9-11eb-84d7-314caea87ddd.gif)
+
 
 
 ## <ins> Description </ins>
