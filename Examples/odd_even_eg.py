@@ -17,11 +17,11 @@ def run():
     network.displayNN()
 
     # running our network
-    for i in range(100):
+    for i in range(10):
         network.train()  # training our network
 
         # # display functions
-        # network.displayNN_forward(i)
+        network.displayNN_forward(i)
         # network.displayNN_backward(i)
         network.displayNN_loss(i)
 
