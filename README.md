@@ -1,6 +1,8 @@
 # <ins> Tensortorch </ins>
 A python based open source Neural Network Framework, built from scratch
 
+Link to the Medium Articles explaining this Framwork : [CLICK HERE](https://angadsandhu.medium.com/creating-a-deep-learning-neural-net-framework-from-scratch-in-python-ca9c77d5b987)
+
 
 Classification Link : <br>
 ![Classification GIF](https://user-images.githubusercontent.com/55819847/103136849-ea782a00-46e9-11eb-9668-d528a80a57d6.gif)
